@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "header": "SVG Viewer",
+    "items": [{
+        "id": "01",
+        "item": "Pizza"
+      },
+      {
+        "id": "02",
+        "item": "Pasta"
+      },
+
+      {
+        "id": "03",
+        "item": "Noodles"
+      }
+    ]
+  }
+}
